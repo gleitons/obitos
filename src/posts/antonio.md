@@ -13,3 +13,5 @@ Data de Nascimento =
 Data de Falecimento = 15/05/2021
 
 Imagens disponíveis:
+
+![](/static/img/homenagem-ldp.jpeg)
